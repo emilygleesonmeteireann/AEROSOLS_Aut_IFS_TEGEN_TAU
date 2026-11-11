@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>T2m</VAR>
+<UNIT>deg C</UNIT>
+<PERIOD>20191101-20191114</PERIOD>
+ <STATION>
+ <MEAN_OBS>   10.1616488     </MEAN_OBS>
+ <STDV_OBS>   1.51099670     </STDV_OBS>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   10.1593828     </MEAN>
+ <STDV>   6.19947052E-40 </STDV>
+ <BIAS>  0.604399323     </BIAS>
+ <RMSE>  0.923435688     </RMSE>
+ <CORR>   6.33638649E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   7.38764550E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.625301361     </BIAS>
+ <RMSE>  0.918633521     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.99584198     </MEAN_OBS>
+ <STDV_OBS>   2.02532768     </STDV_OBS>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   8.80080223     </MEAN>
+ <STDV>  -1576092.12     </STDV>
+ <BIAS>  0.749864578     </BIAS>
+ <RMSE>  0.931018293     </RMSE>
+ <CORR>   6.40043359E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.727313340     </BIAS>
+ <RMSE>  0.934793711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.64251518     </MEAN_OBS>
+ <STDV_OBS>   2.40363240     </STDV_OBS>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   8.50858974     </MEAN>
+ <STDV>   6.33940807E+26 </STDV>
+ <BIAS>  0.866239727     </BIAS>
+ <RMSE>  0.932926893     </RMSE>
+ <CORR>  -1585207.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.842024922     </BIAS>
+ <RMSE>  0.937637568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.10293341     </MEAN_OBS>
+ <STDV_OBS>   2.65850592     </STDV_OBS>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   6.88023615     </MEAN>
+ <STDV>   6.34033852E+26 </STDV>
+ <BIAS>  0.908568561     </BIAS>
+ <RMSE>  0.939242363     </RMSE>
+ <CORR>   6.64080352E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.872831464     </BIAS>
+ <RMSE>  0.944495857     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.18920231     </MEAN_OBS>
+ <STDV_OBS>   2.71804667     </STDV_OBS>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   8.56818676     </MEAN>
+ <STDV>  -1585207.88     </STDV>
+ <BIAS>   1.01819396     </BIAS>
+ <RMSE>  0.934176862     </RMSE>
+ <CORR>   6.40043285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02424777     </BIAS>
+ <RMSE>  0.933273792     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.14552307     </MEAN_OBS>
+ <STDV_OBS>   2.95725060     </STDV_OBS>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   5.62451029     </MEAN>
+ <STDV>   6.64080352E+26 </STDV>
+ <BIAS>  0.880789638     </BIAS>
+ <RMSE>  0.955891848     </RMSE>
+ <CORR>  -1576091.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.889231920     </BIAS>
+ <RMSE>  0.954848826     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.38858318     </MEAN_OBS>
+ <STDV_OBS>   2.33413863     </STDV_OBS>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   9.71748161     </MEAN>
+ <STDV>   6.40043285E+26 </STDV>
+ <BIAS>  0.781482458     </BIAS>
+ <RMSE>  0.945882261     </RMSE>
+ <CORR>  -1576305.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.760198653     </BIAS>
+ <RMSE>  0.948312938     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.62554216     </MEAN_OBS>
+ <STDV_OBS>   3.45585752     </STDV_OBS>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         556 </NUM>
+ <MEAN>   7.65746450     </MEAN>
+ <STDV>  -1576091.88     </STDV>
+ <BIAS>   1.27356935     </BIAS>
+ <RMSE>  0.950096905     </RMSE>
+ <CORR>   6.33645733E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         556 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27040899     </BIAS>
+ <RMSE>  0.951598227     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.42545605     </MEAN_OBS>
+ <STDV_OBS>   2.71201229     </STDV_OBS>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   9.03856564     </MEAN>
+ <STDV>  -1576305.88     </STDV>
+ <BIAS>  0.972482026     </BIAS>
+ <RMSE>  0.933822095     </RMSE>
+ <CORR>  -1656565.62     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.986946821     </BIAS>
+ <RMSE>  0.931388736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.93761635     </MEAN_OBS>
+ <STDV_OBS>   2.95974207     </STDV_OBS>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>   8.32021046     </MEAN>
+ <STDV>   6.33645733E+26 </STDV>
+ <BIAS>   1.13613594     </BIAS>
+ <RMSE>  0.931708634     </RMSE>
+ <CORR>  -1576092.12     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14869988     </BIAS>
+ <RMSE>  0.929543018     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.13225651     </MEAN_OBS>
+ <STDV_OBS>   3.01258159     </STDV_OBS>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   8.45101643     </MEAN>
+ <STDV>  -1656565.62     </STDV>
+ <BIAS>   1.38527799     </BIAS>
+ <RMSE>  0.903178990     </RMSE>
+ <CORR>   6.33940807E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35762811     </BIAS>
+ <RMSE>  0.906902969     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.91189480     </MEAN_OBS>
+ <STDV_OBS>   3.43944955     </STDV_OBS>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   7.20824957     </MEAN>
+ <STDV>  -1576092.12     </STDV>
+ <BIAS>   1.29088104     </BIAS>
+ <RMSE>  0.925440371     </RMSE>
+ <CORR>   6.34033852E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28174460     </BIAS>
+ <RMSE>  0.929350913     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.71845055     </MEAN_OBS>
+ <STDV_OBS>   2.21360636     </STDV_OBS>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         645 </NUM>
+ <MEAN>   9.67241096     </MEAN>
+ <STDV>   6.33940807E+26 </STDV>
+ <BIAS>  0.864534974     </BIAS>
+ <RMSE>  0.919577181     </RMSE>
+ <CORR>  -1585207.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         645 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.875052512     </BIAS>
+ <RMSE>  0.918423951     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.55015945     </MEAN_OBS>
+ <STDV_OBS>   2.33887744     </STDV_OBS>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   9.46732807     </MEAN>
+ <STDV>   6.34033852E+26 </STDV>
+ <BIAS>  0.896479249     </BIAS>
+ <RMSE>  0.920575202     </RMSE>
+ <CORR>   6.64080352E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.920070827     </BIAS>
+ <RMSE>  0.919571698     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.59000301     </MEAN_OBS>
+ <STDV_OBS>   2.09454989     </STDV_OBS>
+ <EXP>
+ <ID>        3896 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   9.33069706     </MEAN>
+ <STDV>  -1585207.88     </STDV>
+ <BIAS>  0.936585248     </BIAS>
+ <RMSE>  0.907119751     </RMSE>
+ <CORR>   6.40043285E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3896 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.785108089     </BIAS>
+ <RMSE>  0.935508132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.43671894     </MEAN_OBS>
+ <STDV_OBS>   2.82326818     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         640 </NUM>
+ <MEAN>   8.30405045     </MEAN>
+ <STDV>  -1656547.50     </STDV>
+ <BIAS>  0.894142747     </BIAS>
+ <RMSE>  0.949300289     </RMSE>
+ <CORR>  -1576091.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         640 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.946052909     </BIAS>
+ <RMSE>  0.942091227     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.28750229     </MEAN_OBS>
+ <STDV_OBS>   2.46529341     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   9.75193214     </MEAN>
+ <STDV>   6.33639535E+26 </STDV>
+ <BIAS>  0.779858410     </BIAS>
+ <RMSE>  0.949293435     </RMSE>
+ <CORR>   6.64080352E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.828312218     </BIAS>
+ <RMSE>  0.943479478     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10.0200615     </MEAN_OBS>
+ <STDV_OBS>   2.14562964     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   10.0735388     </MEAN>
+ <STDV>  -1656589.50     </STDV>
+ <BIAS>  0.820895255     </BIAS>
+ <RMSE>  0.929653764     </RMSE>
+ <CORR>  -1656585.62     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.836260498     </BIAS>
+ <RMSE>  0.927272499     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.29050350     </MEAN_OBS>
+ <STDV_OBS>   2.51729417     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         642 </NUM>
+ <MEAN>   8.92593861     </MEAN>
+ <STDV>   6.33948850E+26 </STDV>
+ <BIAS>  0.829034209     </BIAS>
+ <RMSE>  0.948469877     </RMSE>
+ <CORR>   6.64078138E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         642 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.820387542     </BIAS>
+ <RMSE>  0.949597836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20191101-20191114</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.400314331     </MEAN_OBS>
+ <STDV_OBS>  0.634725451     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         636 </NUM>
+ <MEAN>  0.280919969     </MEAN>
+ <STDV>  -1656547.50     </STDV>
+ <BIAS>  0.870731711     </BIAS>
+ <RMSE>  0.369690031     </RMSE>
+ <CORR>  -1576091.88     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         636 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.828123868     </BIAS>
+ <RMSE>  0.406909943     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299382538     </MEAN_OBS>
+ <STDV_OBS>  0.599311173     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>  0.227929011     </MEAN>
+ <STDV>   6.33639535E+26 </STDV>
+ <BIAS>  0.691544175     </BIAS>
+ <RMSE>  0.421452254     </RMSE>
+ <CORR>   6.64080352E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         648 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.701031506     </BIAS>
+ <RMSE>  0.447570473     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.274303317     </MEAN_OBS>
+ <STDV_OBS>  0.605880797     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>  0.248589694     </MEAN>
+ <STDV>  -1656589.50     </STDV>
+ <BIAS>   1.01467705     </BIAS>
+ <RMSE>  0.220221981     </RMSE>
+ <CORR>  -1656585.62     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.909815669     </BIAS>
+ <RMSE>  0.269739896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.377499819     </MEAN_OBS>
+ <STDV_OBS>  0.712458253     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>TEGENREF</NAME>
+ <NUM>         640 </NUM>
+ <MEAN>  0.275978386     </MEAN>
+ <STDV>   6.33948850E+26 </STDV>
+ <BIAS>  0.900360584     </BIAS>
+ <RMSE>  0.412765384     </RMSE>
+ <CORR>   6.64078138E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>TEGENTAU</NAME>
+ <NUM>         640 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.943781793     </BIAS>
+ <RMSE>  0.361380100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
